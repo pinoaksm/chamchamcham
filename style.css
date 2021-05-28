@@ -1,0 +1,42 @@
+h1 {
+  color: rgb(217, 43, 66, 85);
+  text-shadow: 3px 3px #A5A9D4;
+}
+
+h3 {
+  color: #B30018;
+}
+
+body {
+  background-image: url("img/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+p {
+  font-family: noto sans;
+  text-indent: 10px;
+  word-spacing: 1px;
+  letter-spacing: -1px;
+}
+
+li {
+  font-family: noto sans;
+  text-indent: 10px;
+  word-spacing: 1px;
+  letter-spacing: -1px;
+}
+
+td {
+  font-family: noto sans;
+  text-indent: 10px;
+  word-spacing: 1px;
+  letter-spacing: -1px;
+}
+
+label {
+  font-family: noto sans;
+  text-indent: 10px;
+  word-spacing: 1px;
+  letter-spacing: -1px;
+}
