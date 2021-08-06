@@ -1,0 +1,19 @@
+@media (min-width: 1200px) {
+.container{max-width: 1140px}
+}
+
+.header {
+  background-color: #1a1f2a;
+  background-image: url(img/bg-top.jpg);
+  background-position: center top;
+  background-size: cover;
+  color: #fff;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.section{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
